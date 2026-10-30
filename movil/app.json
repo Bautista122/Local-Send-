@@ -2,6 +2,7 @@
   "expo": {
     "name": "LocalSend",
     "slug": "movil",
+    "owner": "pipa1221",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
@@ -20,6 +21,11 @@
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.CHANGE_WIFI_MULTICAST_STATE"
       ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f2e2518a-5f6a-4506-839f-1a13cc790fe4"
+      }
     }
   }
 }
